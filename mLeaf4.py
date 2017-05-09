@@ -7,7 +7,7 @@ Kaggle - Leaf competition
 Topic: ensembling good classifiers by a VotingClassifier
 
 Models: KNN, DecisionTree, SVC
-Ensambling: VotingClassifier
+Ensembling: VotingClassifier
 Tuning: GridSearchCV
 CV: inner/outer: StratifiedKFold
 
